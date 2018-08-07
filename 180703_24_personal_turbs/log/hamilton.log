@@ -1,0 +1,10 @@
+[2018-08-07 18:31:02,085] pyhamilton.interface INFO starting a Hamilton interface
+[2018-08-07 18:31:02,085] pyhamilton.interface INFO started the oem process
+[2018-08-07 18:31:02,085] pyhamilton.interface INFO started the server thread
+[2018-08-07 18:31:14,630] pyhamilton.interface WARNING permission denied, trying again...
+[2018-08-07 18:31:16,631] pyhamilton.interface WARNING permission denied, trying again...
+[2018-08-07 18:31:18,631] pyhamilton.interface WARNING Could not kill oem process, moving on with shutdown
+[2018-08-07 18:31:18,631] pyhamilton.interface INFO disconnected from server
+[2018-08-07 18:31:18,732] pyhamilton.interface INFO server did not exit yet, sending dummy request to exit its loop
+[2018-08-07 18:31:18,747] pyhamilton.interface INFO dummy get request sent to server
+[2018-08-07 18:31:18,747] pyhamilton.interface INFO server thread exited

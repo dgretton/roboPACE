@@ -1,0 +1,1 @@
+{"remote_script_dir": "/home/pi/i2cpump/rpi_py_host/", "run_script": "runpumpdevice.py", "abort_script":"interrupt_pythons.sh", "putty_session": "pi_static_ssh"}

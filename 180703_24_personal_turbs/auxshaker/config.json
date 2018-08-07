@@ -1,0 +1,1 @@
+{"putty_session": "shaker_serial", "start_cmd": "+\nE\nA1\nV{}\nG\n", "stop_cmd": "A1\nS\n", "serial_bat": "shaker_serial.bat", "plink_bat": "plink_start_and_kill.bat"}

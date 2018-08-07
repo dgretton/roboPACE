@@ -1,0 +1,5 @@
+matplotlib==2.2.2
+git+https://github.com/dgretton/pyhamilton.git
+git+https://github.com/dgretton/platereader.git
+git+https://github.com/dgretton/auxpump.git
+git+https://github.com/dgretton/auxshaker.git
