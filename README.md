@@ -1,5 +1,5 @@
 # roboPACE
-Python implementation of automated massively parallel PACE on a Hamilton STARlet using the [pyhamilton](https://github.com/dgretton/pyhamilton) package
+Python implementation of automated massively parallel PACE on a Hamilton STARlet using the [pyhamilton](https://github.com/dgretton/pyhamilton) package.
 
 The repo mostly only exists to show how pyhamilton can be integrated with other Python packages. With pyhamilton, you can interface smoothly with hardware and software that is custom-built or not supported by Hamilton.
 
@@ -12,4 +12,5 @@ Have a look at the source, and maybe try:
 ```
 
 _Contact: dgretton@media.mit.edu_
+
 _Developed for the Sculpting Evolution Group at the MIT Media Lab_
