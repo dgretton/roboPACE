@@ -1,0 +1,6 @@
+*.pyc
+*__pycache__
+*.DS_store
+*.swp
+*.log
+180703_24_personal_turbs/log
